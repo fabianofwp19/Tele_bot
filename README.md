@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 id="titulo">Telegram-Interactive-Button-Bot</h1>
+    <h1 id="titulo">Tele_Bot</h1>
     <p>Um bot do Telegram projetado para oferecer funcionalidades de botões interativos, proporcionando fácil acesso a consultas de logs, comandos personalizáveis e muito mais.</p>
 </div>
 
